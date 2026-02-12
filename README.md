@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Olá! Eu sou a Camila Fontes
 
-<!--
-**Camila-Fontes/Camila-Fontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma profissional apaixonada por **Relacionamento com o Cliente**, **Customer Experience** e **Customer Success**, com foco em **Estratégias Orientadas por Dados e por Empatia**.  
+Acredito que decisões inteligentes surgem da combinação entre **métricas, insights e sensibilidade humana** — e é assim que busco gerar impacto nas jornadas e experiências dos clientes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💛 Sobre mim
+- 🌱 Construo experiências que fortalecem relacionamento, confiança e fidelização  
+- 📊 Acompanho métricas e interpreto dados para orientar ações estratégicas  
+- 💬 Acredito na empatia e na garantia da qualidade como o maior diferencial competitivo  
+- 🤝 Tenho interesse em CX, CS, Design Thinking, Marketing e Estratégias Centradas no Cliente  
+
+---
+
+## 🎯 Áreas de Interesse
+- Customer Experience (CX)  
+- Customer Success (CS)  
+- Relacionamento com o Cliente  
+- Estratégias Data-Driven  
+- Jornada e Experiência do Cliente  
+- Fidelização, Retenção e Satisfação  
+- Comunicação e Empatia aplicada ao atendimento  
+
+---
+
+## 🛠️ Habilidades & Ferramentas
+- Análise de métricas de relacionamento e experiência  
+- Mapeamento de jornada  
+- Comunicação com foco em empatia  
+- Estratégias de retenção  
+- Visão analítica aplicada ao cliente  
+
+---
+
+## 📂 Projetos em construção
+Aqui você vai encontrar meus projetos, estudos e materiais voltados para:
+- 📌 Experiência do Cliente  
+- 📌 Customer Success  
+- 📌 Estratégias orientadas por dados  
+- 📌 Análises e insights sobre relacionamento cliente e qualidade assegurada  
+
+*(Atualizarei conforme eu publicar novos repositórios!)*  
+
+---
+
+## 🌐 Conecte-se comigo
+🔗 **LinkedIn:** *www.linkedin.com/in/camila-fontes-estrategiacomdados*  
+
+---
+
+✨ Obrigada por visitar meu perfil!  
+Sinta-se à vontade para explorar meus projetos e acompanhar minha jornada.
