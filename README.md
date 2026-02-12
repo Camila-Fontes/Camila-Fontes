@@ -8,7 +8,7 @@ Acredito que decisões inteligentes surgem da combinação entre **métricas, in
 ## 💛 Sobre mim
 - 🌱 Construo experiências que fortalecem relacionamento, confiança e fidelização  
 - 📊 Acompanho métricas e interpreto dados para orientar ações estratégicas  
-- 💬 Acredito na empatia e na garantia da qualidade como o maior diferencial competitivo  
+- 💬 Acredito na empatia e na garantia da qualidade como maiores diferenciais competitivos  
 - 🤝 Tenho interesse em CX, CS, Design Thinking, Marketing e Estratégias Centradas no Cliente  
 
 ---
