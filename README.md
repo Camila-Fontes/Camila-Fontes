@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Camila Fontes
 
-Sou uma profissional apaixonada por **Relacionamento com o Cliente**, **Customer Experience** e **Customer Success**, com foco em **Estratégias Orientadas por Dados e por Empatia**.  
+Sou uma profissional apaixonada por **Relacionamento com o Cliente**, **Customer Experience** e **Customer Success**, com foco em **Estratégias Orientadas por Dados e por Empatia para jornadas excelentes**.  
 Acredito que decisões inteligentes surgem da combinação entre **métricas, insights e sensibilidade humana** — e é assim que busco gerar impacto nas jornadas e experiências dos clientes.
 
 ---
@@ -16,7 +16,7 @@ Acredito que decisões inteligentes surgem da combinação entre **métricas, in
 ## 🎯 Áreas de Interesse
 - Customer Experience (CX)  
 - Customer Success (CS)  
-- Relacionamento com o Cliente  
+- Relacionamento com o Cliente (CRM)  
 - Estratégias Data-Driven  
 - Jornada e Experiência do Cliente  
 - Fidelização, Retenção e Satisfação  
@@ -38,7 +38,8 @@ Aqui você vai encontrar meus projetos, estudos e materiais voltados para:
 - 📌 Experiência do Cliente  
 - 📌 Customer Success  
 - 📌 Estratégias orientadas por dados  
-- 📌 Análises e insights sobre relacionamento cliente e qualidade assegurada  
+- 📌 Análises e insights sobre relacionamento cliente e qualidade assegurada
+- 📌 Estratégias para excelência na Jornada Cliente
 
 *(Atualizarei conforme eu publicar novos repositórios!)*  
 
