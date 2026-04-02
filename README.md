@@ -29,7 +29,9 @@ Acredito que decisões inteligentes surgem da combinação entre **métricas, in
 - Mapeamento de jornada  
 - Comunicação com foco em empatia  
 - Estratégias de retenção  
-- Visão analítica aplicada ao cliente  
+- Visão analítica aplicada a necessidade do cliente
+- Elaboração e treinamento de equipes
+- Aplicação de design thinking e outras ferramentas para excelência de processos e jornadas  
 
 ---
 
