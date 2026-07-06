@@ -2,6 +2,7 @@
 
 Sou uma profissional apaixonada por **Gestão do Relacionamento com o Cliente**, **Customer Experience** e **Customer Success**, com foco em **Estratégias Orientadas por Dados e por Empatia para jornadas excelentes e conversões reais**.  
 Acredito que decisões inteligentes surgem da combinação entre **métricas, insights e sensibilidade humana** — e é assim que busco gerar impacto nas jornadas e experiências dos clientes.
+Sou formada em Engenharia com pós graduação em Ciências de Dados e Marketing Estratégico.
 
 ---
 
