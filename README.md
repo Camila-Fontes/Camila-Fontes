@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Camila Fontes
 
-Sou uma profissional apaixonada por **Relacionamento com o Cliente**, **Customer Experience** e **Customer Success**, com foco em **Estratégias Orientadas por Dados e por Empatia para jornadas excelentes**.  
+Sou uma profissional apaixonada por **Relacionamento com o Cliente**, **Customer Experience** e **Customer Success**, com foco em **Estratégias Orientadas por Dados e por Empatia para jornadas excelentes e conversões reais**.  
 Acredito que decisões inteligentes surgem da combinação entre **métricas, insights e sensibilidade humana** — e é assim que busco gerar impacto nas jornadas e experiências dos clientes.
 
 ---
@@ -9,7 +9,8 @@ Acredito que decisões inteligentes surgem da combinação entre **métricas, in
 - 🌱 Construo experiências que fortalecem relacionamento, confiança e fidelização  
 - 📊 Acompanho métricas e interpreto dados para orientar ações estratégicas  
 - 💬 Acredito na empatia e na garantia da qualidade como maiores diferenciais competitivos  
-- 🤝 Tenho interesse em CX, CS, Design Thinking, Marketing e Estratégias Centradas no Cliente  
+- 🤝 Tenho interesse em CX, CS, Design Thinking, Marketing e Estratégias Centradas no Cliente
+- 💬 Profissional especializada e com experiência em avaliação de riscos, resolução de problemas, melhoria contínua, treinamentos de equipes para ganhos de performance em indicadores de Marketing e Vendas
 
 ---
 
@@ -31,17 +32,19 @@ Acredito que decisões inteligentes surgem da combinação entre **métricas, in
 - Estratégias de retenção  
 - Visão analítica aplicada a necessidade do cliente
 - Elaboração e treinamento de equipes
+- Atuação como cliente oculto para avaliação da jornada
 - Aplicação de design thinking e outras ferramentas para excelência de processos e jornadas  
 
 ---
 
 ## 📂 Projetos em construção
 Aqui você vai encontrar meus projetos, estudos e materiais voltados para:
-- 📌 Experiência do Cliente  
-- 📌 Customer Success  
-- 📌 Estratégias orientadas por dados  
-- 📌 Análises e insights sobre relacionamento cliente e qualidade assegurada
-- 📌 Estratégias para excelência na Jornada Cliente
+- 📌 Experiência do Cliente (CX) 
+- 📌 Customer Success (CS) 
+- 📌 Estratégias orientadas por dados  (Growth Hacking)
+- 📌 Análises e insights sobre relacionamento cliente e qualidade assegurada (CRM)
+- 📌 Estratégias para excelência na Jornada Cliente (Ferramentas de Melhoria contínua e Métodos Ágeis)
+- 📌 Estratégias para ganho de performance e resposta para perguntas de négocios (Forescasting)
 
 *(Atualizarei conforme eu publicar novos repositórios!)*  
 
