@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Camila Fontes
 
-Sou uma profissional apaixonada por **Relacionamento com o Cliente**, **Customer Experience** e **Customer Success**, com foco em **Estratégias Orientadas por Dados e por Empatia para jornadas excelentes e conversões reais**.  
+Sou uma profissional apaixonada por **Gestão do Relacionamento com o Cliente**, **Customer Experience** e **Customer Success**, com foco em **Estratégias Orientadas por Dados e por Empatia para jornadas excelentes e conversões reais**.  
 Acredito que decisões inteligentes surgem da combinação entre **métricas, insights e sensibilidade humana** — e é assim que busco gerar impacto nas jornadas e experiências dos clientes.
 
 ---
@@ -9,7 +9,7 @@ Acredito que decisões inteligentes surgem da combinação entre **métricas, in
 - 🌱 Construo experiências que fortalecem relacionamento, confiança e fidelização  
 - 📊 Acompanho métricas e interpreto dados para orientar ações estratégicas  
 - 💬 Acredito na empatia e na garantia da qualidade como maiores diferenciais competitivos  
-- 🤝 Tenho interesse em CX, CS, Design Thinking, Marketing e Estratégias Centradas no Cliente
+- 🤝 Tenho interesse em CX, CS, Design Thinking, Marketing, Growth Hacking e Estratégias Centradas no Cliente
 - 💬 Profissional especializada e com experiência em avaliação de riscos, resolução de problemas, melhoria contínua, treinamentos de equipes para ganhos de performance em indicadores de Marketing e Vendas
 
 ---
@@ -18,7 +18,7 @@ Acredito que decisões inteligentes surgem da combinação entre **métricas, in
 - Customer Experience (CX)  
 - Customer Success (CS)  
 - Relacionamento com o Cliente (CRM)  
-- Estratégias Data-Driven  
+- Estratégias Data-Driven (Growth) 
 - Jornada e Experiência do Cliente  
 - Fidelização, Retenção e Satisfação  
 - Comunicação e Empatia aplicada ao atendimento  
@@ -29,7 +29,7 @@ Acredito que decisões inteligentes surgem da combinação entre **métricas, in
 - Análise de métricas de relacionamento e experiência  
 - Mapeamento de jornada  
 - Comunicação com foco em empatia  
-- Estratégias de retenção  
+- Estratégias de retenção e de Growth Hacking  
 - Visão analítica aplicada a necessidade do cliente
 - Elaboração e treinamento de equipes
 - Atuação como cliente oculto para avaliação da jornada
