@@ -1,13 +1,13 @@
 # 👋 Olá! Eu sou a Camila Fontes
 
-Sou uma profissional apaixonada por **Gestão do Relacionamento com o Cliente**, **Customer Experience** e **Customer Success**, com foco em **Estratégias Orientadas por Dados e por Empatia para jornadas excelentes e conversões reais**.  
+Sou uma profissional especializada em otimização de **Gestão do Relacionamento com o Cliente**, **Customer Experience** e **Customer Success**, com foco em **Estratégias Orientadas por Dados e por Empatia para jornadas excelentes e conversões reais**.  
 Acredito que decisões inteligentes surgem da combinação entre **métricas, insights e sensibilidade humana** — e é assim que busco gerar impacto nas jornadas e experiências dos clientes.
 Sou formada em Engenharia com pós graduação em Ciências de Dados e Marketing Estratégico; além de vários cursos de especialização nessas áreas.
 
 ---
 
 ## 💛 Sobre mim
-- 🌱 Construo experiências que fortalecem relacionamento, confiança e fidelização  
+- 🌱 Avalio experiências para fortalecer o relacionamento, confiança e fidelização  
 - 📊 Acompanho métricas e interpreto dados para orientar ações estratégicas  
 - 💬 Acredito na empatia e na garantia da qualidade como maiores diferenciais competitivos  
 - 🤝 Tenho interesse em CX, CS, Design Thinking, Marketing, Growth Hacking e Estratégias Centradas no Cliente
@@ -21,8 +21,6 @@ Sou formada em Engenharia com pós graduação em Ciências de Dados e Marketing
 - Relacionamento com o Cliente (CRM)  
 - Estratégias Data-Driven (Growth) 
 - Jornada e Experiência do Cliente  
-- Fidelização, Retenção e Satisfação  
-- Comunicação e Empatia aplicada ao atendimento  
 
 ---
 
