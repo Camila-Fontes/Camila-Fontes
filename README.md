@@ -8,7 +8,7 @@ Sou formada em Engenharia com pós graduação em Ciências de Dados e Marketing
 
 ## 💛 Sobre mim
 - 🌱 Avalio experiências para fortalecer o relacionamento, confiança e fidelização  
-- 📊 Acompanho métricas e interpreto dados para orientar ações estratégicas  
+- 📊 Acompanho métricas e interpreto dados para orientar ações estratégicas com previsibilidade 
 - 💬 Acredito na empatia e na garantia da qualidade como maiores diferenciais competitivos  
 - 🤝 Tenho interesse em CX, CS, Design Thinking, Marketing, Growth Hacking e Estratégias Centradas no Cliente
 - 💬 Profissional especializada e com experiência em avaliação de riscos, resolução de problemas, melhoria contínua, treinamentos de equipes para ganhos de performance em indicadores de Marketing e Vendas
@@ -25,7 +25,8 @@ Sou formada em Engenharia com pós graduação em Ciências de Dados e Marketing
 ---
 
 ## 🛠️ Habilidades & Ferramentas
-- Análise de métricas de relacionamento e experiência  
+- Análise de métricas de relacionamento e experiência
+- Modelos de previsão para áreas de Marketing e Vendas  
 - Mapeamento de jornada  
 - Comunicação com foco em empatia  
 - Estratégias de retenção e de Growth Hacking  
