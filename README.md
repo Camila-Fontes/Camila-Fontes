@@ -19,8 +19,8 @@ Sou formada em Engenharia com pós graduação em Ciências de Dados e Marketing
 - Customer Experience (CX)  
 - Customer Success (CS)  
 - Relacionamento com o Cliente (CRM)  
-- Estratégias Data-Driven (Growth) 
-- Jornada e Experiência do Cliente  
+- Estratégias Data-Driven em Mkt&Vendas (Growth) 
+- Head Inovação e Design Thinker para jornada do cliente  
 
 ---
 
