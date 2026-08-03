@@ -1,21 +1,22 @@
 # 👋 Olá! Eu sou a Camila Fontes
 
-Sou uma profissional especializada em otimização de **Gestão do Relacionamento com o Cliente**, **Customer Experience** e **Customer Success**, com foco em **Estratégias Orientadas por Dados e por Empatia para jornadas excelentes e conversões reais**.  
+Conte comigo para melhorias em resultados e otimizações na **Gestão do Relacionamento com o Cliente**, **Customer Experience** e **Customer Success**, com foco em **Estratégias Orientadas por Dados e abordagem human-to-human (H2H) para jornadas excelentes e conversões reais**.  
 Acredito que decisões inteligentes surgem da combinação entre **métricas, insights e sensibilidade humana** — e é assim que busco gerar impacto nas jornadas e experiências dos clientes.
 Sou formada em Engenharia com pós graduação em Ciências de Dados e Marketing Estratégico; além de vários cursos de especialização nessas áreas.
 
 ---
 
 ## 💛 Sobre mim
-- 🌱 Avalio experiências para fortalecer o relacionamento, confiança e fidelização  
+- 🌱 Avalio experiências, presença digital e estratégias de comunicação com o cliente a fim de fortalecer o relacionamento, confiança e fidelização  
 - 📊 Acompanho métricas e interpreto dados para orientar ações estratégicas com previsibilidade 
 - 💬 Acredito na empatia e na garantia da qualidade como maiores diferenciais competitivos  
-- 🤝 Tenho interesse em CX, CS, Design Thinking, Marketing, Growth Hacking e Estratégias Centradas no Cliente
+- 🤝 Tenho interesse em Growth Hacking, CX, CS, Design Thinking, Marketing e Estratégias Centradas no Cliente
 - 💬 Profissional especializada e com experiência em avaliação de riscos, resolução de problemas, melhoria contínua, treinamentos de equipes para ganhos de performance em indicadores de Marketing e Vendas
 
 ---
 
 ## 🎯 Áreas de Interesse
+- Growth Hacking
 - Customer Experience (CX)  
 - Customer Success (CS)  
 - Relacionamento com o Cliente (CRM)  
@@ -27,7 +28,8 @@ Sou formada em Engenharia com pós graduação em Ciências de Dados e Marketing
 ## 🛠️ Habilidades & Ferramentas
 - Análise de métricas de relacionamento e experiência
 - Modelos de previsão para áreas de Marketing e Vendas  
-- Mapeamento de jornada  
+- Mapeamento de jornada
+- Auditoria digital
 - Comunicação com foco em empatia  
 - Estratégias de retenção e de Growth Hacking  
 - Visão analítica aplicada a necessidade do cliente
