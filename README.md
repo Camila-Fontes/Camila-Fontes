@@ -2,6 +2,7 @@
 
 Conte comigo para obter resultados e otimizações na **Gestão do Relacionamento com o Cliente**, **Customer Experience** e **Customer Quality**, com foco em **Estratégias Orientadas por Dados e abordagem human-to-human (H2H) para melhorias na jornada e conversões reais** garantindo a **excelência** e atendendo as **expectativas dos Clientes** através da **Qualidade Assegurada** dos produtos e serviços da sua empresa.  
 Acredito que **qualidade** e **excelência** fidelizam clientes e que decisões inteligentes surgem da combinação entre **métricas, insights e sensibilidade humana** — e é assim que busco gerar impacto nas jornadas e experiências dos clientes.
+
 Engenheira de Qualidade com mais de 15 anos de experiência, formada em Ciências Químicas, Pós graduada em Ciências de Dados e com Pós em Marketing Estratégico para ampliar minha visão desde produto_ processo até mercado_serviço; além de vários cursos de especialização nessas áreas.
 
 ---
