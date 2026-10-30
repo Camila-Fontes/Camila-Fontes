@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou a Camila Fontes
 
-Conte comigo para melhorias em resultados e otimizações na **Gestão do Relacionamento com o Cliente**, **Customer Experience** e **Customer Success**, com foco em **Estratégias Orientadas por Dados e abordagem human-to-human (H2H) para jornadas excelentes e conversões reais**.  
-Acredito que decisões inteligentes surgem da combinação entre **métricas, insights e sensibilidade humana** — e é assim que busco gerar impacto nas jornadas e experiências dos clientes.
-Sou formada em Engenharia com pós graduação em Ciências de Dados e Marketing Estratégico; além de vários cursos de especialização nessas áreas.
+Conte comigo para obter resultados e otimizações na **Gestão do Relacionamento com o Cliente**, **Customer Experience** e **Quality Customer**, com foco em **Estratégias Orientadas por Dados e abordagem human-to-human (H2H) para melhorias na jornada e conversões reais** garantindo a **excelência** e atendendo as **expectativas dos Clientes** através da **Qualidade Assegurada** dos produtos e serviços da sua empresa.  
+Acredito que **qualidade** e **excelência** fidelizam clientes e que decisões inteligentes surgem da combinação entre **métricas, insights e sensibilidade humana** — e é assim que busco gerar impacto nas jornadas e experiências dos clientes.
+Engenheira de Qualidade com mais de 15 anos de experiência, formada em Ciências Químicas, Pós graduada em Ciências de Dados e com Pós em Marketing Estratégico para ampliar minha visão desde produto_ processo até mercado_serviço; além de vários cursos de especialização nessas áreas.
 
 ---
 
@@ -10,12 +10,14 @@ Sou formada em Engenharia com pós graduação em Ciências de Dados e Marketing
 - 🌱 Avalio experiências, presença digital e estratégias de comunicação com o cliente a fim de fortalecer o relacionamento, confiança e fidelização  
 - 📊 Acompanho métricas e interpreto dados para orientar ações estratégicas com previsibilidade 
 - 💬 Acredito na empatia e na garantia da qualidade como maiores diferenciais competitivos  
-- 🤝 Tenho interesse em Growth Hacking, CX, CS, Design Thinking, Marketing e Estratégias Centradas no Cliente
-- 💬 Profissional especializada e com experiência em avaliação de riscos, resolução de problemas, melhoria contínua, treinamentos de equipes para ganhos de performance em indicadores de Marketing e Vendas
+- 🤝 Tenho interesse em CX Strategy através de: Garantia da Qualidade, Design Thinking, Growth Hacking e Estratégias Centradas no Cliente
+- 💬 Profissional especializada e com experiência em avaliação de riscos, resolução de problemas, melhoria contínua, treinamentos de equipes para ganhos de performance em indicadores de Qualidade, Indústria, Marketing e Vendas.
 
 ---
 
 ## 🎯 Áreas de Interesse
+- CX Strategy
+- Qualidade Assegurada
 - Growth Hacking
 - Customer Experience (CX)  
 - Customer Success (CS)  
@@ -27,9 +29,10 @@ Sou formada em Engenharia com pós graduação em Ciências de Dados e Marketing
 
 ## 🛠️ Habilidades & Ferramentas
 - Análise de métricas de relacionamento e experiência
-- Modelos de previsão para áreas de Marketing e Vendas  
+- Análise de processos, produtos e indicadores
+- Modelos de previsão para áreas estratégicas  
 - Mapeamento de jornada
-- Auditoria digital
+- Auditorias (inclusive de ambientes digitais)
 - Comunicação com foco em empatia  
 - Estratégias de retenção e de Growth Hacking  
 - Visão analítica aplicada a necessidade do cliente
@@ -42,8 +45,8 @@ Sou formada em Engenharia com pós graduação em Ciências de Dados e Marketing
 ## 📂 Projetos em construção
 Aqui você vai encontrar meus projetos, estudos e materiais voltados para:
 - 📌 Experiência do Cliente (CX) 
-- 📌 Customer Success (CS) 
-- 📌 Estratégias orientadas por dados  (Growth Hacking)
+- 📌 Gestão da Qualidade 
+- 📌 Estratégias orientadas por dados e aplicação de data-viz  (Growth Hacking)
 - 📌 Análises e insights sobre relacionamento cliente e qualidade assegurada (CRM)
 - 📌 Estratégias para excelência na Jornada Cliente (Ferramentas de Melhoria contínua e Métodos Ágeis)
 - 📌 Estratégias para ganho de performance e resposta para perguntas de négocios (Forescasting)
@@ -53,7 +56,7 @@ Aqui você vai encontrar meus projetos, estudos e materiais voltados para:
 ---
 
 ## 🌐 Conecte-se comigo
-🔗 **LinkedIn:** *www.linkedin.com/in/camila-fontes-estrategiacomdados*  
+🔗 **LinkedIn:** *www.linkedin.com/in/camila-fontes-cxstrategy*  
 
 ---
 
